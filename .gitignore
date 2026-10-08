@@ -13,3 +13,4 @@ desktop.ini
 
 # dependency dirs, should never appear in this project
 node_modules/
+dist-wavedash/
