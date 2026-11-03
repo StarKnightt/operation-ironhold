@@ -220,3 +220,5 @@ delay, which is how the collision and AI fixes were regression tested.
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+☕ like it? [buy me a coffee](https://buymeacoffee.com/prasenx) or [sponsor on github](https://github.com/sponsors/StarKnightt)
